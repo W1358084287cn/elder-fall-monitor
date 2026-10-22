@@ -1,0 +1,6 @@
+.pio/
+.pio-mcp-workspace/
+.env*
+COM*
+*.log
+build/
